@@ -1,0 +1,318 @@
+<ArrayOfHoliday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>NEW-YEARS-DAY-ACTUAL</HolidayCode>
+    <Descriptor>New Year's Day</Descriptor>
+    <HolidayType>Other</HolidayType>
+    <DateType>Actual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-01-01T00:00:00</Date>
+    <RelatedHolidayCode>NEW-YEARS-DAY-OBSERVED</RelatedHolidayCode>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>NEW-YEARS-DAY-OBSERVED</HolidayCode>
+    <Descriptor>New Year's Day</Descriptor>
+    <HolidayType>Other</HolidayType>
+    <DateType>Observed</DateType>
+    <BankHoliday>Recognized</BankHoliday>
+    <Date>2018-01-01T00:00:00</Date>
+    <RelatedHolidayCode>NEW-YEARS-DAY-ACTUAL</RelatedHolidayCode>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>MARTIN-LUTHER-KING-BIRTHDAY-ACTUAL</HolidayCode>
+    <Descriptor>Martin Luther King's Birthday</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>Actual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-01-15T00:00:00</Date>
+    <RelatedHolidayCode>MARTIN-LUTHER-KING-BIRTHDAY-OBSERVED</RelatedHolidayCode>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>MARTIN-LUTHER-KING-BIRTHDAY-OBSERVED</HolidayCode>
+    <Descriptor>Martin Luther King's Birthday</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>Observed</DateType>
+    <BankHoliday>Recognized</BankHoliday>
+    <Date>2018-01-15T00:00:00</Date>
+    <RelatedHolidayCode>MARTIN-LUTHER-KING-BIRTHDAY-ACTUAL</RelatedHolidayCode>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>GROUNDHOG-DAY</HolidayCode>
+    <Descriptor>Groundhog Day</Descriptor>
+    <HolidayType>Other</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-02-02T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>LINCOLN-BIRTHDAY</HolidayCode>
+    <Descriptor>Abraham Lincoln's Birthday</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-02-12T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>SHROVE-TUESDAY</HolidayCode>
+    <Descriptor>Shrove Tuesday (Fat Tuesday)</Descriptor>
+    <HolidayType>Religious</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-02-13T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>ASH-WEDNESDAY</HolidayCode>
+    <Descriptor>Ash Wednesday</Descriptor>
+    <HolidayType>Religious</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>Recognized</BankHoliday>
+    <Date>2018-02-14T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>VALENTINES-DAY</HolidayCode>
+    <Descriptor>Valentine's Day</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-02-14T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>PRESIDENTS-DAY</HolidayCode>
+    <Descriptor>President's Day</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>Recognized</BankHoliday>
+    <Date>2018-02-19T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>WASHINGTON-BIRTHDAY</HolidayCode>
+    <Descriptor>George Washington's Birthday</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-02-22T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>ST-PATRICKS-DAY</HolidayCode>
+    <Descriptor>St. Patrick's Day</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-03-17T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>GOOD-FRIDAY</HolidayCode>
+    <Descriptor>Good Friday</Descriptor>
+    <HolidayType>Religious</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-03-30T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>APRIL-FOOLS</HolidayCode>
+    <Descriptor>April Fools Day</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-04-01T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>EASTER</HolidayCode>
+    <Descriptor>Easter</Descriptor>
+    <HolidayType>Religious</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-04-01T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>EARTH-DAY</HolidayCode>
+    <Descriptor>Earth Day</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-04-22T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>CINCO-DE-MAYO</HolidayCode>
+    <Descriptor>Cinco de Mayo</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-05-05T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>MOTHERS-DAY</HolidayCode>
+    <Descriptor>Mother's Day</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-05-13T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>MEMORIAL-DAY</HolidayCode>
+    <Descriptor>Memorial Day</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>Recognized</BankHoliday>
+    <Date>2018-05-28T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>FLAG-DAY</HolidayCode>
+    <Descriptor>Flag Day</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-06-14T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>FATHERS-DAY</HolidayCode>
+    <Descriptor>Father's Day</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-06-17T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>INDEPENDENCE-DAY-ACTUAL</HolidayCode>
+    <Descriptor>Independence Day</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>Actual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-07-04T00:00:00</Date>
+    <RelatedHolidayCode>INDEPENDENCE-DAY-OBSERVED</RelatedHolidayCode>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>INDEPENDENCE-DAY-OBSERVED</HolidayCode>
+    <Descriptor>Independence Day</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>Observed</DateType>
+    <BankHoliday>Recognized</BankHoliday>
+    <Date>2018-07-04T00:00:00</Date>
+    <RelatedHolidayCode>INDEPENDENCE-DAY-ACTUAL</RelatedHolidayCode>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>LABOR-DAY</HolidayCode>
+    <Descriptor>Labor Day</Descriptor>
+    <HolidayType>Other</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>Recognized</BankHoliday>
+    <Date>2018-09-03T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>PATRIOT-DAY</HolidayCode>
+    <Descriptor>Patriot Day</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-09-11T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>COLUMBUS-DAY</HolidayCode>
+    <Descriptor>Columbus Day</Descriptor>
+    <HolidayType>Other</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>Recognized</BankHoliday>
+    <Date>2018-10-08T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>HALLOWEEN</HolidayCode>
+    <Descriptor>Halloween</Descriptor>
+    <HolidayType>Other</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-10-31T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>VETERANS-DAY-ACTUAL</HolidayCode>
+    <Descriptor>Veteran's Day</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>Actual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-11-11T00:00:00</Date>
+    <RelatedHolidayCode>VETERANS-DAY-OBSERVED</RelatedHolidayCode>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>VETERANS-DAY-OBSERVED</HolidayCode>
+    <Descriptor>Veteran's Day</Descriptor>
+    <HolidayType>Notable</HolidayType>
+    <DateType>Observed</DateType>
+    <BankHoliday>Recognized</BankHoliday>
+    <Date>2018-11-12T00:00:00</Date>
+    <RelatedHolidayCode>VETERANS-DAY-ACTUAL</RelatedHolidayCode>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>THANKSGIVING</HolidayCode>
+    <Descriptor>Thanksgiving</Descriptor>
+    <HolidayType>Other</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>Recognized</BankHoliday>
+    <Date>2018-11-22T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>BLACK-FRIDAY</HolidayCode>
+    <Descriptor>Black Friday</Descriptor>
+    <HolidayType>Other</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-11-23T00:00:00</Date>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>CHRISTMAS-ACTUAL</HolidayCode>
+    <Descriptor>Christmas</Descriptor>
+    <HolidayType>Religious</HolidayType>
+    <DateType>Actual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-12-25T00:00:00</Date>
+    <RelatedHolidayCode>CHRISTMAS-OBSERVED</RelatedHolidayCode>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>CHRISTMAS-OBSERVED</HolidayCode>
+    <Descriptor>Christmas</Descriptor>
+    <HolidayType>Religious</HolidayType>
+    <DateType>Observed</DateType>
+    <BankHoliday>Recognized</BankHoliday>
+    <Date>2018-12-25T00:00:00</Date>
+    <RelatedHolidayCode>CHRISTMAS-ACTUAL</RelatedHolidayCode>
+  </Holiday>
+  <Holiday>
+    <Country>UnitedStates</Country>
+    <HolidayCode>NEW-YEARS-EVE</HolidayCode>
+    <Descriptor>New Year's Eve</Descriptor>
+    <HolidayType>Other</HolidayType>
+    <DateType>ObservedActual</DateType>
+    <BankHoliday>NotRecognized</BankHoliday>
+    <Date>2018-12-31T00:00:00</Date>
+  </Holiday>
+</ArrayOfHoliday>
